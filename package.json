@@ -1,6 +1,6 @@
 {
   "name": "file-upload-server",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "simple file upload server by nodejs",
   "main": "index.js",
   "bin": {
